@@ -1,0 +1,40 @@
+<html>
+	<head>AngularJS Todos App</head>
+	<body ng-app="noteApp">
+		<div class="todo-wrapper" ng-controller="MainCtrl as ctrl">
+			<h2>You've got <span class="emphasis">{{remaining()}}</span> things to do</h2>    
+			<ul>
+				<li ng-repeat="todo in todos | filter:filterOptions[currentFilter] 
+					       | orderBy:sortOrder[ctrl.currentSort] | limitTo:5" 
+					class="done-{{todo.done}}">
+					<input type="checkbox" ng-model="todo.done" >   
+					<span class="done-{{todo.done}}">{{todo.title | limitTo:10}}:    {{todo.text}}</span>  
+				</li>
+			</ul>
+
+			<form ng-submit="ctrl.submit()" name="myForm">
+				<input type="text" 
+					name="title"
+					ng-model="formTitle"
+					placeholder="title..."
+					required
+					ng-minLength="4">				
+				<span ng-show="myForm.title.$error.required">This is a required field.</span>
+				<span ng-show="myForm.title.$error.minlength">Minimum length required is 4</span> 
+				<span ng-show="myForm.title.$invalid">This filed is invalid</span>
+				<input class="add-input" placeholder="I need to..." type="text" ng-model="formTodoText" ng-model-instant />
+				<button class="add-btn" ng-click="addTodo()"><h2>Add</h2></button>
+			</form>
+			
+			<button ng-click="ctrl.currentSort = '+title'"> Sort by +Title</button>
+			<button ng-click="ctrl.currentSort = '-title'"> Sort by -Title</button>
+			<button ng-click="ctrl.currentSort = '+done'"> Sort by +Done</button>
+			<button ng-click="ctrl.currentSort = '-done'"> Sort by -Done</button>
+
+			<button class="clear-btn" ng-click="clearCompleted()">Clear Completed</button>
+		</div>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.js"></script>
+		<script src="todo.js"></script>
+	</body>
+	
+</html>
