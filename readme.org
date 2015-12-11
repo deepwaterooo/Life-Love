@@ -236,7 +236,7 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 | Health Insurance                 |              1392 | one year, 116/month, for female, includes pregnant cov as required.                            |
 | Rent Room                        |              2500 | 10 months                                                                                      |
 | A used 98 Buick car              |              1200 | with 219000 miles on wheel when I bought                                                       |
-| Rent Room for Summer in CA       |              1500 | for 3.5 months                                                                                 |
+| Rent Room for Summer in CA       |              1500 | for 3.5 months (arrived CA on 5/18/2013)                                                       |
 | gas back and force CA            |               250 | once during summer                                                                             |
 | pay to local court               |                50 |                                                                                                |
 |----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
@@ -244,7 +244,7 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 |----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
 | Tuition Fall 2013                |             10500 |                                                                                                |
 | Health Insurance                 |              1392 | one year, female, includes pregnant cov.                                                       |
-| Rent Room                        |              2920 | 10 months                                                                                      |
+| Rent Room                        |        (2920-292) | 9 months, August was covered because they moved out in end of Aug                              |
 | IAA Collection for Ambulance     |   (832.20+416.10) | 832.20 for ambulance, and 416.10 for 50% collection fees though I never received their letter  |
 | Tuition Spring 2014              |               200 | waves out-of-state, TA $4000-$200 wasn't able to cover even in-state tuition, let alone living |
 | tax return                       |             +3500 |                                                                                                |
@@ -312,6 +312,8 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
   - Never had any industry working experience
   - Never wanted to use any Linux system, have always been staying with windows.
 - Would this make any other hard-workers feel fair at all? Is this some kind of joke? How come my fate has been so much interfered by the university just because I had suffered too much than any other students sharing the same major, so I will have to suffer more?!!!
+
+* more sections coming up... have work on hand, will update later tonight...
 
 * Project requirements
 - Think of an application which has some client side processing using html, css, javascript and AngularJS. 
