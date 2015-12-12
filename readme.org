@@ -3,18 +3,17 @@
 #+title: Life Love
 #+author: deepwaterooo
 
-* Original
+* CopyRight
 - Created by Script Tutorials
 - License (if not mentioned otherwise in the files): http://www.script-tutorials.com/terms-of-use/
-- This readme is also a *three year review* for the three years that I spent to gain my Computer Science Master's degree. 
+- This readme is also a *Three Year Review* for the three years that I spent to gain my Computer Science Master's degree. 
   
 * Residence Culture
 ** 8/1/12-5/31/2013: 10 months lease
 - My room-mate was originally came from Bangladesh for political reasons. And she has not even finished her local high school. 
 - We took turns to do apartment cleaning. 
 - Usually we got along well. But after she had complained me for quite a few times without logical reasons, I intend to ignore her in the apartment from about the second semester.  
-  
-** 8/1/13-5/31/2014: 10 months lease
+** 9/1/13-5/31/2014: 9 months lease
 - I rented the room to help a Chinese friend out, who was also a graduate student sharing the same major with me. 
 - I asked the friend to find another girl to share the apartment.
 - This friend posted a print out page in SUB declaring that a Computer Science majored female graduate student from China was looking for a room-mate.
@@ -49,7 +48,6 @@
   [[./pic/IMG_0428.PNG]]
   
 - She was a midnight cat, and always do laundry in the late evenings, but I felt shamed to ask her do laundry during daytime, thought she may have plans during day time. So for the whole year, I tried my best to tolerant these kinds of behavior. 
-  
 *** 1/1/15-5/31/2015, second semester
 - The landlord introduced the new room-mate as she knew the student pretty well. I don't know why she wanted to live here for only five months, but I never asked. 
 - Compared with the midnight cat room-mate who Usually did laundry up to 12:00am, the new roommie was a early bird, who waked up at about 5:45, and took shower every morning at around 6am. The washer and dryer was on the other side of one wall from my room, and the bathroom was on the other side of another wall from my room, while both room-mate's rooms were further away from these bathroom, laundry places and kitchen.
@@ -70,29 +68,33 @@
   - The spring semester's new room-mate early bird wake up and took shower at 6:00am was a person found by the university professors landlord on propose, trying to reduce wake me up and reduce my study efficiency. 
   - I had been a good room-mate never complained to them about their behaviors, while it seems I was too kind to be badly treated!
     
-** Notes
-*** Residence Cooperation
-**** California Residence Comparison
+* Residence Cultural, Any Problem With Me? No, Not At All~!
+** Residence Cooperation
+*** California Residence Comparison
 - I spent 2.5 years in CA between 1/1/2010-7/31/2012. And I rent the same room in the same house from a Vietnam family in North San Jose for more than 2 years (27.5 months in total, 5/1/2010-3/15/2011, 6/1/2011-7/31/2012, 5/18/2013-8/31/2013). I don't have any conflicts with the family with three young kids/baby, and I even bought birthday gifts for the girls when it's their birthday, like music baloons etc.
 - In summer 2014 (6/1/2014-7/31/2014) I shared one bedroom with an international girl in down town San Jose and we got along well. I still appreciate the landlord's kindness that he didn't deposit my check until one month after I left, during which period which years, I was especially in financial problems.
 - During all the years when I lived/lives in CA (1/1/2010-7/31/2012, 5/18/2013-8/31/2013, 6/1/2014-7/31/2014, 5/25/2015-now 11/30/2015), I get along with all the landlord well, and I don't have any issues with any of them at all, in silicon valley CA. 
-**** My regrets
+*** My regrets to Bangladesh Girl
 - After the two years during when the room-mates were pretty much arranged by the university, I began to realize and miss the happiness and freedom of living with some girl with natural friendship. 
   - I feel sorry that when I lived together with the Bangladesh girl I hadn't taken good care of her, especially when her life was slightly empty without husband around and with no study. 
   - And during 1/18*/2015-5/14/2015, when I worked in campus food court and I have chance to work together with the girl and her husband, I tried my best to cheer her up and took good care of her when she and I were in the same shift also because she was pregnant and were not able to work on heavy things. I believe she could feel the kindness that I treat her. 
-*** Financial Conflicts
-**** University Town
-- The room-mate from 8/1/13-1/15/2014 owned me $50, but he never returned it back to me, which was mentioned in https://github.com/deepwaterooo/MyAutobiography/blob/master/part3_deepwaterooo-Autobiography.pdf part3 chapter 16, page 157-163. On Page 163, I wrote to him trying to get my money back, but I never received any response from him. 
-- The history-majored female room-mate from 8/1/14-5/31/2015 owned me $32 as she declared she wanted to be responsible for, but I never received the money order she mailed. And towards jerks who was seduced by university professors and reported me to police department without leaving me any feedback, I would never want to cooperate with her ever again. 
-- All the financial cases happened on me were happened in university town, together with what have happened during the past three years, I have confidence and clearly believe that it were the American university Students' bad behavior, and I should not be responsible for theirs means at all. 
-**** CA: During all the years when I lived/lives in CA (1/1/2010-7/31/2012, 5/18/2013-8/31/2013, 6/1/2014-7/31/2014, 5/25/2015-now 11/30/2015), I get along with all the landlords well, and I don't have any issues, financially or whatever, with any of them at all, in silicon valley CA. 
-- I love life and love living (which was the reason I failed to kill myself when I was 19.), and I fit into Industry company culture well as well. 
+** Financial Conflicts
+*** University Town
+- The room-mate from 8/1/13-1/15/2014 owned me $50, but he never returned it back to me, which was mentioned in https://github.com/deepwaterooo/MyAutobiography/blob/master/part3_deepwaterooo-Autobiography.pdf *part3 chapter 16, page 157-163*. On Page *163*, I wrote to him trying to get my money back, but I never received any response from him. 
+- The history-majored female room-mate from 8/1/14-5/31/2015 owned me $32 as she declared she wanted to be responsible for, but I never received the money order she mailed. And towards college quit-out who doesn't have basic respectful personality and could easily be seduced by university professors (because her job was interfered by local terrorists) and reported me to police department without leaving me any feedback, I would never want to cooperate with such a person ever again. 
+- All the financial cases happened on me were happened in university town, together with what have happened during the past three years, I have confidence on my personality and deeply believe that it were the American university Students' bad behaviors, and I should not be responsible for their all kinds of mean at all. 
+*** CA
+- *During all the years when I lived/lives in CA (1/1/2010-7/31/2012, 5/18/2013-8/31/2013, 6/1/2014-7/31/2014, 5/25/2015-now 11/30/2015), I get along with all the landlords well, and I don't have any issues, financially or whatever, with any of them at all, in silicon valley CA.*
+** Cultural Fits 
+*** Back in China: work on it!!!!
+*** In USA
+- I love life and love living (which was the reason I failed to kill myself when I was 19.), and I fit into Industry company culture well as well.
   - In all the companies that I worked, I treat my coworkers well. If somebody treats me nice, I do at least the same back, treats back for lunch for lunch sharing etc. 
   - In Nielsen Online, once the site had baby-shower for two new-borns, each of us were suggested to pay $15 for preparing gifts for the two, I paid mine without hesitate; while the middle-aged Chinese female in the team didn't. 
-  - In December 2010, I donated $1000 back to the university Statistics department cause I was working then, and I was financially slightly better those years.
-  - All the slanders, set-up scenes were cleared out. I highly suspect all the slanders were produced by some website trying to make money, just like some university would want to seduce students set up scenes to destroy its own international student's reputation by all means. 
-    
-*** Conclusion
+- In December 2010, I donated $1000 back to the university Statistics department cause I was working then, and I was financially slightly better those years.
+- work on it!!!!
+- All the slanders, set-up scenes were cleared out so far. I highly suspect all the slanders were produced by some website trying to make money, just like some university would want to seduce students set up scenes to destroy its own international student's reputation by all means. 
+** Conclusion
 - I guess it was just a few American University Undergraduates individual student or quit out who are irresponsible and have problems, not me. 
 - I don't have any cooperation problem in residence environment, or in industry company working environment. 
 - I don't have any kind of selfish financial towards room-mates or coworkers. 
@@ -119,7 +121,8 @@
 - Silicon valley is my hometown in US, instead of the university, where I got severely depressed in Spring 2015. 有人说，这个春天我究意怎么了？是的，学习上工作上交友上我一向都还乐观自信热情大方，但自去年秋天senior design项目意识到学校系里设的陷阱后，我被没收了学生办公室，整个校园严冬凛冽刺骨的寒风般氛围就像敌人举着明晃晃的钢刀向我杀过来。。。这个春天对我来说实在太痛苦，在食堂打工，清楚地知道食堂里所有manager都在想方设法地by all means抵诽诽谤我，阻止实习公司给我工作机会，并试图毁掉我所以可能在工业界工作的机会，逼我读博士，可我，除了小心翼翼又能怎样，长期以来被学校的孤立/以及食堂里时时刻刻感觉着的各种诽谤，让我的这个春天极其煎熬，神经极度敏感，整个人处于压抑状态，几乎成了神经病。四月后看清周围的形势，知道网上究竟是哪方倒乱，才稍微有种船到桥头自然直的些许放松。只有后来到了加州后，才能感觉自己的状态在从痛苦中回塑。这校的校园，愿我永远不要再踏入一步！
   
 * What I have suffered in university for these three years
-**  footprint & global agreement
+- This part has been covered in *Part 4, chapter 29*, https://github.com/deepwaterooo/MyAutobiography/blob/master/part4_deepwaterooo-Autobiography.pdf, *page 81-86*.
+** footprint & global agreement
     This part has been posted on part4 chapter 29, post it here as well for convenience. 
     
     (me~) ((me~)@xxxx.uxxxx.edu)
@@ -203,7 +206,7 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 
 -- (me~)
 
-** Quick Summary
+* (In Summary) What I have suffered in university for these three years
 - I didn't want to continue with any MS computer science from this university when I appeared on campus early Aug 2012, and learned from the department that I should only register 7 credits for my first semester. It were the famous Professor from the department and mh previous advisor tried their best to leave me there by allowing me to register more courses, at least for the first semester at that time. And at that time, their attitude was good sincere and admirable.
 - The department tried to block me from choosing Statistics related courses on one side, and tried to block me from processing and developing well from Computer science major as well, not by forbidden me to choose those courses, but rather by giving up offering those courses on propose for my later semesters. I had successfully wrote a tic-tac-toe 500 lines of lisp code as a homework. I am confident about my course work, and I know I have great skills rather than the transcripts represented. 
 - I have spent 3 years for this MS Computer Science degree, what were the skills and ability I had by 8/7/2015 was a full reflection of the university/department/Computer science program teaching performance. 
@@ -218,54 +221,52 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 - The unreasonable thing was that I was not given that piece of information until 2/27/2015, and the permanent order was set up on 3/21/2013, which means they wasted my life for almost 2 years! Could anybody give me any reason I should NOT know this information? This is also human beings and local police department and local court. 
 - What I need is just a computer science related job to make a living. I don't know why the university was so anti-sociel and leaves me no way to survive!
 - One day when I wasn't able to insist my love, I know it was this university and local government and local court that destroyed our lives. *Only the university without any humility nor even fair always wanted to separate the lovers apart to escape 社会和舆论的谴责 for their bad behaviors they have done on me during the past three years。 But is there even at least one party who wants to separate when they are in love for more than FIVE years already (ever since December 2010)? If I have a job, how could I want to lose mine, especially when it's always so difficult to meet the one?* 
-  
 - One day when I realize that I seriously won't be able to have any kid, and it is because these years of delay, I promised I will hate the famous Professor from this department and my previous advisor, together with the whole computer Science department to death!
-  
-* What am I going to do with my life?
-- What am I doing with my life? What am I doing with my life now is the full reason I am writing here to spread all my stories and all the suffering I had here from the university worldwide. So that international students could have more information and better understanding about the international students' campus/off-campus lives and how they are controlled by the university. 
-- What am I going to do with my life? Should I take any further risk to try to continue with any Ph.D after having suffered all of these for three years? go to hell~!
-  
+
 * Finance for the three years
 - I have $27,000 savings before I went back to the university. 
 - The major uses of the savings are listed as followed:
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
-| Items                            |        Amount ($) | Notes                                                                                          |
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
-| Tuition Fall 2012                |             10500 |                                                                                                |
-| Tuition Spring 2013              |             10500 |                                                                                                |
-| Health Insurance                 |              1392 | one year, 116/month, for female, includes pregnant cov as required.                            |
-| Rent Room                        |              2500 | 10 months                                                                                      |
-| A used 98 Buick car              |              1200 | with 219000 miles on wheel when I bought                                                       |
-| Rent Room for Summer in CA       |              1500 | for 3.5 months (arrived CA on 5/18/2013)                                                       |
-| gas back and force CA            |               250 | once during summer                                                                             |
-| pay to local court               |                50 |                                                                                                |
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
-| Intern for Samsung Semiconductor |            +10000 | after tax, for 11 full week, $36/hour                                                          |
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
-| Tuition Fall 2013                |             10500 |                                                                                                |
-| Health Insurance                 |              1392 | one year, female, includes pregnant cov.                                                       |
-| Rent Room                        |        (2920-292) | 9 months, August was covered because they moved out in end of Aug                              |
-| IAA Collection for Ambulance     |   (832.20+416.10) | 832.20 for ambulance, and 416.10 for 50% collection fees though I never received their letter  |
-| Tuition Spring 2014              |               200 | waves out-of-state, TA $4000-$200 wasn't able to cover even in-state tuition, let alone living |
-| tax return                       |             +3500 |                                                                                                |
-| fixed the car                    |         (250+250) | 250 for gas pump part ordered from local auto zone, and 250 for labor paid to auto shop        |
-| Rent Room for Summer in CA       |               700 | for 2 months, share one bedroom with a girl                                                    |
-| gas back and force CA            |               250 | once during summer                                                                             |
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
-| Tuition Fall 2014                | waved, +7500-4000 | TA offered $7500 before tax, $4000 was spent for Fall semester in state tuition fees           |
-| Health Insurance                 |              1400 | one year, female, includes pregnant cov.                                                       |
-| pay to local court               |               150 |                                                                                                |
-| Rent Room                        |              3000 | 10 months                                                                                      |
-| Bob's food court                 |             +3500 | $8.35/hour, about 20 hours per week labor in campus food court,                                |
-| Pay to credit cards              |          (135+60) | paid about $135/month to citi credit card, loan rate APR 20.99%, and $60/month to wellsfargo   |
-|----------------------------------+-------------------+------------------------------------------------------------------------------------------------|
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
+| Items                            |        Amount ($) | Notes                                                                                                                               |
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
+| Tuition Fall 2012                |             10500 |                                                                                                                                     |
+| Tuition Spring 2013              |             10500 |                                                                                                                                     |
+| Health Insurance                 |              1392 | one year, 116/month, for female, includes pregnant cov as required.                                                                 |
+| *See doctor 12/16/2012*          |            (90+8) | ISO covers 50% expenses for the medical test                                                                                        |
+| *See doctor 4/8/2013*            |    (115+90+58+82) | ISO covers 50% expenses for the medical test, $115 for seeing doc fully paid by me                                                  |
+| Rent Room                        |              2500 | 10 months                                                                                                                           |
+| A used 98 Buick car              |              1200 | with 219000 miles on wheel when I bought                                                                                            |
+| Rent Room for Summer in CA       |              1500 | for 3.5 months (arrived CA on 5/18/2013)                                                                                            |
+| gas back and force CA            |               250 | once during summer                                                                                                                  |
+| pay to local court               |                50 |                                                                                                                                     |
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
+| Intern for Samsung Semiconductor |            +10000 | after tax, for 11 full week, 40 hours per week, $36/hour                                                                            |
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
+| Tuition Fall 2013                |             10500 |                                                                                                                                     |
+| Health Insurance                 |              1392 | one year, female, includes pregnant cov.                                                                                            |
+| Rent Room                        |        (2920-292) | 9 months, August was covered because they moved out in end of Aug                                                                   |
+| AAI Collection for Ambulance     |   (832.20+416.10) | 832.20 for ambulance, and 416.10 for 50% collection fees though I never received their letter                                       |
+| Tuition Spring 2014              |               200 | waves out-of-state, TA $4000-$200 wasn't able to cover even in-state tuition, let alone living                                      |
+| *See doctor 3/3/2014*            |    don't remember | *part 3, chapter 30, page 195-197* https://github.com/deepwaterooo/MyAutobiography/blob/master/part3_deepwaterooo-Autobiography.pdf |
+| tax return                       |             +3500 |                                                                                                                                     |
+| fixed the car                    |         (250+250) | 250 for gas pump part ordered from local auto zone, and 250 for labor paid to auto shop                                             |
+| Rent Room for Summer in CA       |               700 | for 2 months, share one bedroom with a girl                                                                                         |
+| gas back and force CA            |               250 | once during summer                                                                                                                  |
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
+| Tuition Fall 2014                | waved, +7500-4000 | TA offered $7500 before tax, $4000 was spent for Fall semester in state tuition fees                                                |
+| Health Insurance                 |              1400 | one year, female, includes pregnant cov.                                                                                            |
+| pay to local court               |               150 |                                                                                                                                     |
+| Rent Room                        |              3000 | 10 months                                                                                                                           |
+| Bob's food court                 |             +3500 | $8.35/hour, about 20 hours per week labor in campus food court,                                                                     |
+| Pay to credit cards              |          (135+60) | paid about $135/month to citi credit card, loan rate APR 20.99%, and $60/month to wellsfargo                                        |
+|----------------------------------+-------------------+-------------------------------------------------------------------------------------------------------------------------------------|
 - My citicard limit is $5000, and wellsfargo is $2500. For the past two years, I just struggled all the way to pay the $200 each month debt.
 - The program asked me to pay full tuition fees each semester for the first THREE semesters. 
 - The forth semester TA $4000-$200 was not able to even cover my in-state tuition fees, and I had to spend on credit card all the times to make a living.
 - The fifth semester was offered $7500 before tax, but up to then, I had to pay $200 each month to credit cards already.
 - the sixth semester, when I had been fully armed to learn more efficiently, the university/program leaves me no opportunity to learn at all. 
 - The university/program said that the first three semesters they never gave me TA because I was not qualified, and the sixth semester when I was qualified the famous professor said I got 30 credits already (30 credits makes a MS Computer Science without a Bachelor's degree, that's University of XXXX), and I should graduate. Study environment factors includes: 
-  - Got my student seat office key back on Nov 21, 2014 on propose, because they thought I was too efficient studying using a graduate student office seat, and un-blockable.
+  - Got my student seat office key back on Nov 21, 2014 on propose, because they thought I was too efficient studying using a graduate student office seat, and un-block-able.
   - By controlling living environment, the history majored student did her laundry only on evenings when I was studying, up to 12:00am.
   - By offering NO TA for me for spring semester, the program leaves me no opportunity to continue further study;
   - By offering NO TA for me for spring semester, with the financial pressure they produced on me on propose already, I was forced to do labor work for spring semester.
@@ -284,26 +285,28 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
   - No body refused to serve as a volunteer, I have worked as a volunteer during June and July 2014 already when I was not in such a financial need. 
   - *Now when I have to pay back all the $10000 debt, I still wants the opportunities to sharpen my knowledge and skills, but as a human being, don't I need to eat at all, do you?*
 
+* My Qualifications For Entry Level Software Engineer
+   The qualifications for a entry level software engineer that I have been worked on and performs well includes: 
+** Problem solving skills
+- *Tic-Tac-Toe:* It was a difficult homework for CS210 programming language in *Fall 2012*, rather than an confident I-can-do attitude, it requires systematic and problem solving skills, as well as patience. Only 2 to 3 students were able to finish the work, and I coded almost the whole night till *4am*, and was one of the at most three well-done. But the course instructor still gave me B on propose. 
+- *RTOS hw3 Keypad configuration:* Problem solving skills made the solving process idea super clear, and finished the homework especially fast in *Spring 2013* (part 2, chapter 4, section 4.3, https://github.com/deepwaterooo/MyAutobiography/blob/master/part2_deepwaterooo-Autobiography.pdf, *page 24*). 
+- *Decision Tree:* As a student who had statistics background, I wanted to work on the decision tree which project may help me understand and combine my statistics background in the future in *Spring 2013*. I expressed to the course instructor my interest. The classmates suspected if I could really do it. But eventually I was one of the at most only two students who worked on the decision tree project out of three options, which was the most challenging one (part 2, chapter 4, section 4.5, https://github.com/deepwaterooo/MyAutobiography/blob/master/part2_deepwaterooo-Autobiography.pdf, *page 25*). 
+- *Python:* When I audit my previous adviser's algorithms course in *spring 2013*, he taught the course using python. But I have never programmed anything using this new programming language yet. In summer 2013, after 1.5 months, when I was mentored and asked to code using python to finish industry projects, *I do NOT have any fear rather than go straight forward and dive into it*. Within one month, I finished three to four projects together with my problem solving skills. Here guided by a great mentor, positive attitude helps, problem solving skills did even more work.
+- *Android DrawingFun App:* It was the first Java-programming challenge for me, as well as Android systems. It was the brand new course which I was interested and insisted to register even when the instructor seemed not happy about it because I was interested. I was not proficient enough with Java programming at that time, but problem solving skills helped me organized each weeks tasks straight forward so that I just need to make gradual progress with the app. So eventually project seemed to be impossible turned out to be just good, not challenging at all. Confidence were built through all these tasks. And later on I practiced my algorithms using Java and got proficient with Java.
+** I-CAN-DO attitude  
+- *Visual Basic Programming:* This was my very first introduction programming language I have learned when I was a undergraduate student. The courses lasted two semesters, 3 credits each semester, and pretty much like CS120 c++ and CS121 Adv C++. I didn't do a good job during the first semester because I had not paid enough attention to it. Then second semester when I made up my mind, I ranked 1st in the class, which had planted the computer science programming seed deep in my heart, and also built my very initial long-lasting confidence for programming over all these years (slightly covered in Part 2, https://github.com/deepwaterooo/MyAutobiography/blob/master/part2_deepwaterooo-Autobiography.pdf, *page 13 & 79*).
+- *Linux Wireless Configuration:* In *spring 2009* when I was learning R, just wanted to get my R program codes syntax colorful, I asked help from a CS Ph.D student Xiaohui, got *Ubuntu* installed on my laptop and programmed R there. Cause he had wasted some much time on me already, I simply googled and eventually got Ubuntu wireless configured for a Linksys external wireless card by myself (Part 2, chapter 6,  https://github.com/deepwaterooo/MyAutobiography/blob/master/part2_deepwaterooo-Autobiography.pdf, *page 79*).
+- *Ubuntu Installation:* My previous advisor suggested computer science majored students should use Linux system over his CS270 course during first couple of weeks in *Fall 2012*. And I googled and reboot my laptop to get dual system over a night. I have used Ubuntu for one year, then since Fall 2013, I liked *Linux Mint* better and have been using it for the past two years. 
+- *Emacs Dude:* The course instructor for CS210 programming language suggested us to learn and use at least one command-based code editor in *Fall 2012*. I learned that somebody says "Emacs is a powerful personal operating system." and I began to use Emacs since the first semester. Later on, I learned how to configure and customize it. 
+- *Latex:* In Spring 2013, my previous advisor has introduced latex to his algorithms students, but I have other priority and had not tried that yet. In *Fall 2013*, when another instructor declare that he will not give points if he cannot recognize somebody's handwriting and he suggested Latex. No problem for me at all, I picked it up immediately, and later got combined with Emacs for auto-complete snippets, and nowadays I pretty much only use *Emacs org-mode* to generate .tex and PDF files, yummy~~ 
+- *GUI:* I have not design and conducted any GUI for the past ten years, while there is always a first time. So simply labor-work (because I could thought the design through in mind) and typed the GUI in company as an intern, and finished a GUI for Senior Design team project on campus as well. New projects can never challenge a person if he has skills on hand and good attitude, so do I. 
+** Programming skills and Code Reading skills
+- *Programming:* From Visual Basic, SAS, R, C++, Lisp, Python, Java, Flex/Bison, Latex, together with later on html/CSS/JavaScript, AngularJS, Ruby and PHP, I have walked a long way, and I am not afraid of any new programming language at all. I could always learn, not any issue at all. 
+- *Code Reading:* As a person who loves programming, together with problem solving skills, Google turns out the best teacher because whenever I tried to search and download somebody else's project references, I will be required to read/review somebody else's work. Significant enhancing on code reading skills is a side product with the improvement of my programming skills. And this code reading skill was also one key reason I could survive my intern projects because I could spend hours concentrate on my mentor's Python test suite automation framework modules and programs, and I could understand every letter every byte of the framework if I have enough time. 
+
 * Fair? Is this some kind of joke?
 - As listed earlier from the same GitHub account, algorithms was taught by the famous professor from the university. Why would the famous professor would want to sentence the international student into death? How the course was taught and how bad I learned from the famous, I tried my best to learn the algorithms by myself. 
 - The three years MS Computer Science degree was seduced by the previous advisor and the famous professor. Seduce me into this program, just want to waste my another three years?
-** My Qualifications 
-   The qualifications that I have been worked on and performs well includes: 
-*** Problem solving skills
-- *Tic-Tac-Toe:* It was a difficult homework for CS210 programming language in *Fall 2012*, rather than an confident I-can-do attitude, it requires systematic and problem solving skills, as well as patience. Only 2 to 3 students were able to finish the work, and I coded almost the whole night till *4am*, and was one of the at most three well-done. But the course instructor still gave me B on propose. 
-- *RTOS hw3 Keypad configuration:* Problem solving skills made the solving process idea super clear, and finished the homework especially fast in *Spring 2013*. 
-- *Decision Tree:* As a student who had statistics background, I wanted to work on the decision tree which project may help me understand and combine my statistics background in the future in *Spring 2013*. I expressed to the course instructor my interest. The classmates suspected if I could really do it. But eventually I was one of the at most only two students who worked on the decision tree project out of three options, which was the most challenging one. 
-- *Python:* When I audit my previous adviser's algorithms course in *spring 2013*, he taught the course using python. But I have never programmed anything using this new programming language yet. In summer 2013, after 1.5 months, when I was mentored and asked to code using python to finish industry projects, *I do NOT have any fear rather than go straight forward and dive into it*. Within one month, I finished three to four projects together with my problem solving skills. Here guided by a great mentor, positive attitude helps, problem solving skills did even more work.
-- *Android DrawingFun App:* It was the first Java-programming challenge for me, as well as Android systems. It was the brand new course which I was interested and insisted to register even when the instructor seemed not happy about it because I was interested. I was not proficient enough with Java programming at that time, but problem solving skills helped me organized each weeks tasks straight forward so that I just need to make gradual progress with the app. So eventually project seemed to be impossible turned out to be just good, not challenging at all. Confidence were built through all these tasks. And later on I practiced my algorithms using Java and got proficient with Java.
-*** I-CAN-DO attitude  
-- *Linux Wireless Configuration:* In *spring 2009* when I was learning R, just wanted to get my R program codes syntax colorful, I asked help from a CS Ph.D student Xiaohui, got *Ubuntu* installed on my laptop and programmed R there. Cause he had wasted some much time on me already, I simply googled and eventually got Ubuntu wireless configured for a Linksys external wireless card by myself.
-- *Ubuntu Installation:* My previous advisor suggested computer science majored students should use Linux system over his CS270 course during first couple of weeks in *Fall 2012*. And I googled and reboot my laptop to get dual system over a night. I have used Ubuntu for one year, then since Fall 2013, I liked Linux Mint better and have been using it for the past two years. 
-- *Emacs Dude:* The course instructor for CS210 programming language suggested us to learn and use at least one command-based code editor in *Fall 2012*. I learned that somebody says "Emacs is a powerful personal operating system." and I began to use Emacs since the first semester. Later on, I learned how to configure and customize it. 
-- *Latex:* In Spring 2013, my previous advisor has introduced latex to his algorithms students, but I have other priority and had not tried that yet. In *Fall 2013*, when another instructor declare that he will not give points if he cannot recognize somebody's handwriting and he suggested Latex. No problem for me at all, I picked it up immediately, and later got combined with Emacs for auto-complete snippets, and nowadays I pretty much only use Emacs org-mode to generate .tex and PDF files, yummy~~ 
-- *GUI:* I have not design and conducted any GUI for the past ten years, while there is always a first time. So simply labor-work (because I could thought the design through in mind) and typed the GUI in company as an intern, and finished a GUI for Senior Design team project on campus as well. New projects can never challenge a person if he has skills on hand and good attitude, so do I. 
-*** Programming skills and Reading skills for programs/scripts
-- *Programming:* From Visual Basic, SAS, R, C++, Lisp, Python, Java, Flex/Bison, Latex, together with later on html/CSS/JavaScript, AngularJS, Ruby and PHP, I have walked a long way, and I am not afraid of any new programming language at all. I could always learn, not any issue at all. 
-- *Code Reading:* As a person who loves programming, together with problem solving skills, Google turns out the best teacher because whenever I tried to search and download somebody else's project references, I will be required to read/review somebody else's work. Significant enhancing on code reading skills is a side product with the improvement of my programming skills. And this code reading skill was also one key reason I could survive my intern projects because I could spend hours concentrate on my mentor's Python test suite automation framework modules and programs, and I could understand every letter every byte of the framework if I have enough time. 
 ** Comparison, Fair, Joke?
 - When a student sharing the same major found industry job with university's help pushing into market when he was not ready for industry yet:
   - Don't want to and never learned any command-based program editor Emacs, vi/vim or whatever, and use only notepad or notepad++ and Visual Studio to code any program;
@@ -313,7 +316,24 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
   - Never wanted to use any Linux system, have always been staying with windows.
 - Would this make any other hard-workers feel fair at all? Is this some kind of joke? How come my fate has been so much interfered by the university just because I had suffered too much than any other students sharing the same major, so I will have to suffer more?!!!
 
-* more sections coming up... have work on hand, will update later tonight...
+* What am I going to do with my life?
+- What am I doing with my life? What am I doing with my life now is the full reason I am writing here to spread all my stories and all the suffering I had here from the university worldwide. So that international students could have more information and better understanding about the international students' campus/off-campus lives and how they are controlled by the university. 
+- What am I going to do with my life? Should I take any further risk to try to continue with any Ph.D after having suffered all of these for three years? go to hell~!
+
+** Self Description
+- *For work, for my Career:* 
+- *For Love:* 
+- *Confidence:*
+
+** 前景蓝图  
+- *For Work:*  
+- *For Family:* 
+
+* this section coming soon....
+** Ph.D
+- *Statement:* As I have clearly stated many times in this https://github.com/deepwaterooo account, Ph.D for me, a female at age 36 without a family, is mission impossible. 
+- Whenever there is any party that is thinking about seducing me back to campus for any Ph.D, please *DO* remind yourself that *YOU ARE DAYDREAMING!*
+** 
 
 * Project requirements
 - Think of an application which has some client side processing using html, css, javascript and AngularJS. 
