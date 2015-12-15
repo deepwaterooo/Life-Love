@@ -381,12 +381,28 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 - I have asked for help online in end of April 2014 for braking the ice. 
 - This section was left out when I made the PDFs for my autobiography, but was added back today in the end of Part 1 (which was posted online and happened right before I began to write Part 2). I included this chapter in the end of Part 1 just for referencing convenience. https://github.com/deepwaterooo/MyAutobiography/blob/master/part1_deepwaterooo-Autobiography.pdf, chapter 13, *page 167-169*. 
 ** Culture Unfit from Campus/University Town
+*** Unreasonable/Unfair despise from CS121 Course Instructor
+- On one morning during Fall 2012 in CS121 C++ class, the course instructor triggered the whole room of classmates (about 40 classmates in the room) looked down on me just because when I pass by his desk entering the classroom, I told him happily that the code bug I wrote to him the day before was successful solved. The classmates' laughing at me made me cry in the classroom for the 45 minutes section (part 2, section 3.1, *page 19-20*). 
+- This was the very first culture shock from the department, by which time I have successful built great confidence for programming through the difficult CS210 programming language Tic-Tac-Toe homework. 
+*** Isolation from Great Classmates
+- As a slightly aged student who is smart and loves programming, every once a while, there were some sparks burst out during my study, like Tic-Tac-Toe, like RTOS 2514, and like slightly later on decision tree. 
+- During the very initial 1.5 to 2 semesters as a computer science student, the classmates' admire for me were still sincere pure, and nature. While the natural friendship cann't bear course instructor's isolation on propose. 
+- An American student whose father was graduated from University of Cambridge got isolated from me as because of the classmate friendship with me. He and I both successfully finished CS210 programming language Tic-Tac-Toe homework. We communicated after homework due and I admired his smartness as well. He and other classmates' admire for me for RTOS 2514 homework got Repressed by the department. And for exam I, the course instructor gave him only 57, which was especially unfair for him, and I believed so as well. After the exam, the student had to drop this course with 0% tuition fees return back for this course, and the student dared not talk to me, have any connection with me ever again!
+*** Course Instructor's unreasonable Judge on student
+
+*** Raising questions without a point blow-up -- "to be continued~"
+(part 3, chapter 25, 26, *page 185-188*)
+
+*** Got blocked from industry working opportunities by the university twice 
+- On 4/29/2014, I have posted partial autobiography asking for help on how to get the industry working opportunities as well as maintain fair reasonable relationship with the program/university. The company which helped offer me an intern during summer 2013 was willing to offer working opportunities for me, but still I got blocked by the university;
+- One year later, on 4/28/2015, when my four commits to midiController repository (https://github.com/deepwaterooo/midiController/commits/master) clearly showing my will to spend the rest of life with my cousin, the intern company with great company culture was still willing to help offer international working opportunities for me, but still once again I got blocked by the university.  
 - 
+
 ** Ph.D
 - *Statement:* As I have clearly stated many times in this https://github.com/deepwaterooo account, Ph.D for me, a female at age 36 without a family, is mission impossible. 
 - Whenever there is any party that is thinking about seducing me back to campus for any Ph.D, please *DO* remind yourself that *YOU ARE DAYDREAMING!*
-** one more sect
-- need deeply think about this, will update the rest parts couple of days later....
+** Culture Terrorist attack
+- working on it, will update later tonight....
 
 
 * Project requirements
