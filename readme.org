@@ -389,29 +389,43 @@ I learned that all the instructors, Professor 代课老师, who is the only mast
 *** Got Isolated from Great Classmates
 - As a slightly aged student who is smart and loves programming, every once a while, there were some sparks burst out during my study, like Tic-Tac-Toe, like RTOS 2514, and like slightly later on decision tree. 
 - During the very initial 1.5 to 2 semesters as a computer science student, the classmates' admire for me were still sincere pure, and nature. While the natural friendship cann't bear course instructor's isolation on propose. 
-- An American student whose father was graduated from University of Cambridge got isolated from me because of the natural classmate friendship with me. He and I both successfully finished CS210 programming language Tic-Tac-Toe homework. We communicated after it's due and I admired his smartness as well. He and other classmates' admire for me for RTOS 2514 homework got repressed by the department. And for RTOS exam I, the course instructor gave him only 57, which was especially unfair for him, and I believed so as well. There was no reason he could get only 57. After the exam, the student had to drop this course with 0% tuition fees return back for this course, and the student dared not talk to me, dare not have any connection with me ever again even we still shared some courses later on! The other friends close to me got similar special "treat" as well.
+- An American student whose father was graduated from University of Cambridge got isolated from me because of the natural classmate friendship with me. He and I both successfully finished CS210 programming language Tic-Tac-Toe homework. We communicated after it's due and I admired his smartness as well. He and other classmates' admire for me for RTOS 2514 homework got repressed by the department. And for RTOS exam I in *Spring 2013*, the course instructor gave him only 57, which was especially unfair for him, and I believed so as well. There was no reason he could get only 57. After the exam, the student had to drop this course with 0% tuition fees return back for this course, and the student dared not talk to me, dare not have any connection with me ever again even we still shared some courses later on! The other friends close to me got similar special "treat" as well.
+*** Food court tried to destroy my reputation by dark means
+- In *Spring 2013* (in March most probably), the food court changed serving style on Saturday evenings. So one evening an irresponsible manager failed to manager the serving team well and controlled and seduced the students in food court misunderstood me. 
+- In spring break 2013, I happened to continue my writing online on BBS, so this part was clearly recorded as well. 
+- This part was recorded in *Part 1, section 12.3, page 147-149*.
+- This was the very first huge movement happened in the food court designed and triggered by the university against me, not very long right after RTOS homework 3 2514 keypad homework (on February 14, 2013), during which homework once more I built reputation among students about my learning and problem-solving skills, even though the department had repressed and desalinated the hard-won reputation once it happened.
+- Later on in Spring 2015, this kinds of setups happened almost every day, I was really seriously physically and psychologically tired by all these dark means. 
 *** Course Instructor's unreasonable Suspect/Prejudice on a student
-- For Artificial Intelligence course, it was four projects based home-works for undergraduate students, and the same four projects plus one review summaries for articles to one specific topic chosen by students. And the course instructor clearly stated that he wanted only project summaries according to his requirements instead of any piece of code. 
+- For Artificial Intelligence course in *Spring 2013*, it was four projects based home-works for undergraduate students, and the same four projects plus one review summaries for articles to one specific topic chosen by students. And the course instructor clearly stated that he wanted only project summaries according to his requirements instead of any piece of code. 
 - After project 1, the course instructor looked left side of me, right side of me, just skipped my area every time, triggering all the classmates to suspect that I was NOT able to finish my project 1, but actually I did. The course instructor's behavior was unreasonable and unfair for me. 
 - I was hurt by his behavior but hadn't have any chance to prove myself. 
 - Until later on the very last project, when there were three topics to choose from, I chosen the most difficult and barely worked on one for recently years. When eventually I successfully finished my decision tree and turned it in front of classmates, they knew they were mislead by course instructor and I got my credits/trust back from my classmates. 
 *** Tried every bit to destroy a student's hard-won confidence
-
-*** Food court tried to destroy my reputation by dark means
-
+- My advisor was changed because the famous professor from the department asked me to change my advisor to be another one in Fall 2013. The advisor change had nothing to do with me but rather a department decision. 
+- The previous advisor had worked in HP for about 15 years before he went to campus to get his Ph.D and spent the rest of his life on campus. 
+- On one course review from some other course, the advisor indirectly seduced me into the classroom. The advisor meant to destroy my confidence. While my confidence on programming was strong built over lots of home-works and projects. I was NOT destroyed or frustrated by their projects at all. The advisor sat aside carefully detecting my reaction to their projects. And from this moment on, when my confidence was kept untouched, this advisor tried all black means in his compiler course in *Fall 2013* to reduce my grades, destroy my confidence and reputation built during the summer as an intern. I answered question four times at critical times, but all those efforts cannot save me from getting a C from this course. His pride and dark thoughts can not allow an international student built her reputation after only year study. 
+- This part was covered in *Part 2, chapter 25, page 125-126*.
 *** Raising questions without a point blow-up -- "to be continued~"
-(part 3, chapter 25, 26, *page 185-188*)
+- Besides setup scenes and triggering events against me, whenever there were opportunities that I made mistakes, the environment would immediately exaggerate my mistake and made it huge. 
+- I dared not to choose one course in *Spring 2014*. One reason was that one Chinese student who took this course before (Xiaozhe) said this course was especially difficult, and in the end, for the third project, he didn't even know what's going on and what to do with the project, but only copied and modified someone else's project from previous couple of years' course. And the other major reason was after Fall 2013 Compiler course, I experienced and knew how dark, unfair and unreasonable the course instructors could be from this program, and I was deeply worried that I would be blacked out by the course instructor who had set prejudice on me in his Artificial Intelligence course in Spring 2013. 
+- So during the process of building my own confidence, one morning after I solved every questions I had before, makefile, function pointers, memory leak problems, I got slightly excited and asked more questions than average in one course section, and unfortunately I was wrong about one concept which made my last question meaningless. Then during the same day the "raising questions without a point" event was immediately triggered by the department. They seduced the students to exaggerate the impression that I was a stupid student raising questions without any point.
+- This part was covered in *Part 3, chapter 25, 26, page 185-188*.
+
+*** Produce roadblocks about my cooperation by set up trap for Senior Design course
+- This course and trap was fully covered in https://github.com/deepwaterooo/SeniorDesign repository. 
 
 *** Got blocked from industry working opportunities by the university twice 
 - On 4/29/2014, I have posted partial autobiography asking for help on how to get the industry working opportunities as well as maintain fair reasonable relationship with the program/university. The company which helped offer me an intern during summer 2013 was willing to offer working opportunities for me, but still I got blocked by the university;
 - One year later, on 4/28/2015, when my four commits to midiController repository (https://github.com/deepwaterooo/midiController/commits/master) clearly showing my will to spend the rest of life with my cousin, the intern company with great company culture was still willing to help offer international working opportunities for me, but still once again I got blocked by the university.  
-- 
-*** Produce roadblocks about my cooperation by set up trap for Senior Design course
-- This course and trap was fully covered in https://github.com/deepwaterooo/SeniorDesign repository. 
+
 *** the University blocked me from industry intern opportunity though promised to give me permission by the advisor earlier
 
 *** Set up Scenes on propose to destroy my residential culture reputation 
-- It happened just recently after I graduated already. But use the place where I lived long and peacefully in CA as the control, people could know what's going on. 
+- It happened just recently (within the month) several months after I graduated already, and which was the initial reason I wanted to maintain this repository.
+- The university tried to set up a bad residential problems on me by controlling my roommates for the past two years. 
+- Though the roommates were controlled and seduced to setup scenes against me, I used the peaceful culture/phenomenon where I lived long and peacefully in CA as the control and comparison, people could know what's going on with the university. 
+- Details could be checked from either previous sections, or from the four parts books. 
 - I am not a selfish person, and I fit the culture well wherever I lived. 
 
 ** Ph.D
